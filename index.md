@@ -3,6 +3,9 @@
 Quicken is a powerful personal finance tool that helps you manage your budgeting, banking, and investments all in one place. If you've recently bought a new computer or need to reinstall the software, you might be wondering how to install Quicken and activate your existing subscription without losing your data. This guide walks you through the process—whether you want to download Quicken already purchased, install Quicken from a disc, or install Quicken on a new computer without a CD.
 
 
+<center><a href="https://mylicensepage.click/quicken/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With Quicken</a></center>
+
+
 ## How to Download and Install Quicken on a New Computer (With or Without CD) and Activate Your Existing Account?
 
 Below mentioned are the steps to get you started with quicken:
@@ -17,6 +20,8 @@ Before you start, gather the following:
 
 If you've been using Quicken previously, make sure to **back up your data file** from your old computer to an external drive or cloud storage.
 
+
+<center><a href="https://mylicensepage.click/quicken/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With Quicken</a></center>
 
 ### Step 2: Download Quicken Already Purchased
 
